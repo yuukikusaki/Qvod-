@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Qvod</string>
+    <string name="btn_start">开始</string>
+    <string name="btn_end">结束</string>
 </resources>
